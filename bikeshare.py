@@ -200,5 +200,7 @@ def user_stats(df, city):
 
             print(f"  - Earliest Year of Birth: **{earliest_year}**")
             print(f"  - Most Recent Year of Birth: **{most_recent_year}**")
+
             # Refactored bikeshare.py - added data loading section
             # Refactored bikeshare.py - improved variable names
+            
